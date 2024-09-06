@@ -18,4 +18,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/.zed
+.DS_Store
+supervisord.pid
+/docker/database/data
+/docker/database/test-data
